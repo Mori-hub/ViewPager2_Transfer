@@ -17,10 +17,11 @@ Install my-project with https://jitpack.io/
 
 ```bash
   dependencies {
-	        implementation 'com.github.Mori-hub:'
+	        implementation 'com.github.Mori-hub:ViewPager2_Transfer:1.0.0'
 	}
 ```
-    
+  [![](https://jitpack.io/v/Mori-hub/ViewPager2_Transfer.svg)](https://jitpack.io/#Mori-hub/ViewPager2_Transfer)
+  
 ## 🧰Usage
 
 ```javascript
